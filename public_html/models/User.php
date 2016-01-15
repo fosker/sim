@@ -20,7 +20,7 @@ use yii\web\IdentityInterface;
  */
 class User extends \yii\db\ActiveRecord implements IdentityInterface
 {
-
+    TEST;
     public $password;
 
     public static function tableName()
