@@ -1,0 +1,16 @@
+.for-clients ul {
+    margin: auto;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+.for-designers ul {
+    margin: auto;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+#footer {
+    margin-top: 10px;
+    background-color: #222222;
+}
